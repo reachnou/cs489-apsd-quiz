@@ -1,0 +1,4 @@
+- The system should allow user to create, read, update, and delete contact
+- The contact can have zero or more phone numbers, and zero or more email addresses
+- The system should allow user to search contact
+- The system should merge the duplicate contact
